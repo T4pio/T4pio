@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<h5 align="left">Hello! . My name is Halil. I'm a developer who is passionate about software development, contributing to open source projects and always open to learning. Here are a few facts to get to know me:<br><br>Skills: I am proficient in technologies such as Python, Java, C++, JavaScript. I am also developing myself in the field of databases and ERP systems.<br><br>Contributions: I enjoy contributing to open source projects and I am motivated by working with the community to make improvements to shared projects.<br><br>Education: I have a bachelor's degree in information systems and technologies and I am constantly focusing on self-improvement.<br>You can check out my GitHub profile to learn more about my projects and contributions. Also, I am always happy to collaborate on open source projects and develop new projects.<br><br>Thank you!</h5>
+<h5 align="left">Hello! . My name is Halil. I'm a developer who is passionate about software development, contributing to open source projects and always open to learning. Here are a few facts to get to know me:<br><br>Skills: I am proficient in technologies such as Python, Java, C++, JavaScript. I am also developing myself in the field of databases and ERP systems.<br><br>Contributions: I enjoy contributing to open source projects and I am motivated by working with the community to make improvements to shared projects.<br><br>Education: I'm studying for a bachelor's degree in information systems and technologies and I'm constantly focusing on self-development.
+You can check out my GitHub profile to learn more about my projects and contributions. Also, I am always happy to collaborate in open source projects and develop new projects.
+<br><br>Thank you!</h5>
 
 ###
 
