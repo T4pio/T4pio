@@ -1,0 +1,28 @@
+name: Generate profile summary cards
+
+on:
+  schedule: # execute every 24 hours
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          TIME_ZONE: Europe/Istanbul
+          THEME: github_dark
+          ANIMATION: fade
