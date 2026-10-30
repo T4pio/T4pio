@@ -65,8 +65,21 @@ Junior software developer at **Pargesoft**, based in Istanbul. I build and maint
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=T4pio&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2C9AB7&icon_color=2C9AB7&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4pio&layout=compact&hide_border=true&bg_color=0d1117&title_color=2C9AB7&text_color=c9d1d9" alt="Top languages" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top languages by repo" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Stats" />
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Commits by hour" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=T4pio&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
